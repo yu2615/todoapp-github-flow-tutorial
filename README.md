@@ -1,0 +1,2 @@
+# githubの勉強
+githubの使い方がわからなかったためYouTubeを参考に勉強しました。
